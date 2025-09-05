@@ -1,6 +1,7 @@
 # Smartwatch – Weather & Google Calendar API (ESP32 + SH1106)
 
 **Mục tiêu:** Module hoá **OpenWeatherMap (thời tiết)** và **Google Calendar (sự kiện)** → **parse JSON → struct**.
+
 **Phạm vi:** Chỉ phần API + ví dụ gắn với UI SH1106 hiện có (không thiết kế UI mới).
 
 ---
