@@ -1,0 +1,8 @@
+Kết nối & Đồng bộ thời gian:
+Kết nối Wi-Fi.
+
+Lấy thời gian từ NTP.
+
+Quản lý đồng bộ dữ liệu giờ cho các module.
+
+Code hệ thống scheduler (chạy các tác vụ định kỳ).
